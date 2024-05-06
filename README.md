@@ -11,9 +11,9 @@
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 🔧 I’m currently working on ...Usage of AI-Models.
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
+- 💡 I’m curious about ...AI-MachineLearning.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...sjitaru29@gmail.com.

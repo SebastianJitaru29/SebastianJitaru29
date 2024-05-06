@@ -16,7 +16,7 @@
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📫 How to reach me ...sjitaru29@gmail.com.
 
 <hr>
 
@@ -38,13 +38,15 @@
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
 <!--      

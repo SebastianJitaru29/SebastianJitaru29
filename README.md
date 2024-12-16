@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sebastian;Computer+Engineer...;Data+Science+Enthusiast...;"/>
  
- <p>- <i>A Computer Engineer currently studying a master's in Artificial Intelligence at RUG. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
+ <p>- <i>A Computer Engineer currently studying a master's in Artificial Intelligence at RUG. Able to perform well in team and eager to learn new things related to technology and engineering</i></p>
 
 ## ⚡🙋‍♂️ About Me
 
